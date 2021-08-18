@@ -1,12 +1,12 @@
 # 𝙁𝙞𝙜𝙝𝙩𝙚𝙧'𝙨 𝙀𝙧𝙖
 
-**RELEASE + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
+**AUTOJOB + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
 
-INFO:
+INFO/UPDATES:
 
 -Auto Perfblock with combat equipped. (Experimental)
--No u
--ewu info here
+-Auto Job added.
+-HideNames/Avatar removed due to roblox patches.
 -ewu info here
 
 NOTES: 
